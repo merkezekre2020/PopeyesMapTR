@@ -94,7 +94,7 @@ export default function App() {
               <path d="M14 12h4c3.3 0 6 2.7 6 6s-2.7 6-6 6h-4V12z" fill="#fff"/>
               <path d="M14 16h3.5c1.4 0 2.5 1.1 2.5 2.5S18.9 21 17.5 21H14V16z" fill="#D32F2F"/>
             </svg>
-            <span>Popeyes Türkiye</span>
+            <span>PopeyesMapTR</span>
           </div>
         </div>
         <div className="header-right">
